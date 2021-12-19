@@ -1,8 +1,5 @@
 # Online-Book-Store
 
-### CODE WILL BE UPDATED SHORTLY
-
-
 This is an simple online web store was made by using php, mysql and bootstrap.
 
 the sql for database is put in folder sql.
